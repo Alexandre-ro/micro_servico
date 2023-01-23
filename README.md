@@ -1,4 +1,4 @@
-#Aplicação com Microserviços.
+#Aplicação com Microsserviços.
 
 #Para rodar a aplicação:
 docker compose up
